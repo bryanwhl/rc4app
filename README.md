@@ -1,7 +1,7 @@
 # RC4 App Development
 ## 1. Introduction
 
-This is a repository for the development of RC4 App.
+This is a repository for the development of RC4 App. We are going to use mainly React Native as our tech stack. For more information and resources on React Native I suggest checking out The Net Ninja, his tutorial is one of the best in class. It certainly helps a lot if you understand how Reac js works also so be sure to watch that too.
 
 ## 2. Development Tools
 ### Visual Studio Code
