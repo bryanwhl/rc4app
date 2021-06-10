@@ -1,4 +1,4 @@
-# A.N.A.S Development Guide
+# RC4 App Development
 ## 1. Introduction
 
 This is a repository for the development of RC4 App.
